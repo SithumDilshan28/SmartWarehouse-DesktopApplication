@@ -1,4 +1,4 @@
-# Smart Warehouse: Java Desktop Application for Warehouse Management System
+# Smart Warehouse: Java Desktop Application for Warehouse Management System 
 
 Smart Warehouse is a robust desktop application developed using Java and designed as a university project for the Object-Oriented Programming (OOP) module. It serves as an advanced warehouse management system, empowering businesses to efficiently manage their inventory, streamline operations, and optimize warehouse processes. Built on the NetBeans platform, Smart Warehouse offers a user-friendly interface and a wide range of features to enhance warehouse management.
 
